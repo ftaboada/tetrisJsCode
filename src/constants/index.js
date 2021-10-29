@@ -1,0 +1,1 @@
+export { tetrominoes } from './tetrominoes'

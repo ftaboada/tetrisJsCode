@@ -1,0 +1,7 @@
+export { makeGrid } from './board'
+export { getRandomNumber } from './getRandomNumber'
+export { getClassName } from './getClassName'
+export { createGame } from './createGame'
+export { draw, erase, drawNext } from './draw'
+export { freeze, isCollition } from './freeze'
+export { control } from './control'
